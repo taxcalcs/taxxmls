@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>info.kuechler.bmf.taxxmls</groupId>
+	<groupId>info.kuechler.bmf.taxapi</groupId>
 	<artifactId>taxxmls</artifactId>
-	<version>2020.0.0-SNAPSHOT</version>
+	<version>2020.0.0</version>
 	<name>TaxXMLs</name>
 	
 	<!-- 
@@ -43,6 +43,12 @@
 		<system>github</system>
 		<url>https://github.com/taxcalcs/taxxmls/issues</url>
 	</issueManagement>
+	<licenses>
+		<license>
+			<name>Bundesministerium der Finanzen</name>
+			<url>https://www.bmf-steuerrechner.de/interface/pseudocodes.xhtml</url>
+		</license>
+	</licenses>
 	<developers>
 		<developer>
 			<name>Ariel Küchler</name>
