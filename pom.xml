@@ -4,6 +4,7 @@
 	<groupId>info.kuechler.bmf.taxapi</groupId>
 	<artifactId>taxxmls</artifactId>
 	<name>TaxXMLs</name>
+	<version>2023.0.1</version>
 	
 	<parent>
 		<groupId>info.kuechler.bmf</groupId>
